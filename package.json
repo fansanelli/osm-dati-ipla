@@ -1,0 +1,15 @@
+{
+  "name": "osm-dati-ipla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francesco Ansanelli",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/centroid": "^6.2.0",
+    "@turf/length": "^6.2.0"
+  }
+}
